@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+   
+}
+body {
+    background-color: #eef1f6;
+}
+#heading1 {
+    margin: 1% 0 0 2%;
+    color: white;
+    float: left;
+}
+#header1 {
+    background-color: #3c5a96;
+    min-height: 70px;
+    width: 100%;
+    padding-top: 2%;
+    color: white;
+    overflow: hidden;
+}
+/* #header2 {
+    float: left;
+    background-color: darkblue;
+    width: 40%;
+    min-height: 70px;
+}
+#email_div {
+    color: white;
+    float: left;
+    background-color: darkblue;
+    width: 20%;
+    text-align: center;
+}
+#pass_div {
+    color: white;
+    float: left;
+    background-color: darkblue;
+    width:20%;
+    text-align: center;
+}
+#button_div {
+    color: white;
+    float: right;
+    background-color: darkblue;
+    width: 10%;
+    text-align: center;
+} */
+ #label1{
+    color: white;
+}
+#input1,#input2{
+    margin: 3% 0;
+    width: 11em;
+}
+
+#login {
+    overflow: hidden;
+    padding: .5% 1%;
+    color: white;
+    background-color: #3c5a96;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin-left: 2%;
+}
+#a_1 {
+    color: white;
+    text-decoration: none;
+    font-size: .8em;
+}
+#div_1 {
+    position: fixed;
+    font-size: 80%;
+    margin-left: 60%;
+    width: 10%;
+}
+#div_2 {
+    position: fixed;
+    font-size: 80%;
+    margin-left: 75%;
+    width: 10%;
+    /* margin-top: -3.4%; */
+}
+#div_3 {
+    position: fixed;
+    margin-left: 90%;
+    width: 10%;
+    padding-top: 1.6%;
+}
+#div_left {
+    float: left;
+    width: 55%;
+    padding: 0 2%;
+
+}
+#div_right {
+    float: left;
+    width: 40%;
+}
+#heading2 {
+    margin: 10% 1% 5% 1%;
+}
+span {
+    font-size: 10px;
+}
+#heading3 {
+    margin-top: 5%;
+}
+#fname ,#lname {
+    margin-top: 5%;
+    margin-right: 2%;
+    border-radius: 5px;
+    border: 1px solid #e7ebed;
+    padding: 1%;
+    width: 38%;
+}
+#phone ,#password {
+    margin-top: 3%;
+    border-radius: 5px;
+    border: 1px solid #e7ebed;
+    padding: 1%;
+    width: 81%;
+}
+#birthday_heading {
+    margin-top: 5%;
+}
+#female ,#male {
+    margin: 3% 3%;
+
+}
+#signin {
+    margin: 3% 0;
+    border-radius: 5px;
+    background-color: #5a9648;
+    color: white;
+    width: 35%;
+    padding: 1% 0;
+    font-size: 1em;
+}
+#a_2 {
+ text-decoration: none;
+}
+#para-1 {
+    border-top: 1px solid gray;
+    padding-top: 2%;
+}
